@@ -61,6 +61,16 @@ li {
   padding-bottom: 1em;
 }
 
+.sublist {
+  list-style-type: georgian;
+  padding-top: 1em;
+}
+
+.sublist li {
+
+  padding-bottom: 0.5em;
+}
+
 .social-links {
   margin: 0;
   padding: 0;
